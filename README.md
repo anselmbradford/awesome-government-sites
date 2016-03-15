@@ -29,7 +29,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 #### Consumer Financial Protection Bureau (CFPB)
 
-- [consumerfinance.gov](http://www.consumerfinance.gov) - Consumer Financial Protection Bureau site.
+- [consumerfinance.gov](http://www.consumerfinance.gov) - Consumer Financial Protection Bureau site ([report issues](https://github.com/cfpb/cfgov-refresh/issues)).
 
 #### Corporation for National and Community Service (CNCS)
 
