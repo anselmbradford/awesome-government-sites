@@ -77,6 +77,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [congress.gov](https://www.congress.gov) - legislative activities, members of congress, etc.
 - [loc.gov](https://www.loc.gov) - Library of Congress site.
+  - [id.loc.gov](http://id.loc.gov) - LoC Linked Data service.
 
 #### NASA
 
