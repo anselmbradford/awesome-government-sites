@@ -52,7 +52,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [mymoney.gov](http://www.mymoney.gov) - Improve the financial well-being of postsecondary students.
 - [usaspending.gov](https://www.usaspending.gov) - Track federal spending ([report issues](https://github.com/fedspendingtransparency/USASpending-Issue-Tracker/issues)).
 
-#### Department of Veteran Affairs
+#### Department of Veteran Affairs ([GH org](https://github.com/department-of-veterans-affairs))
 
 - [va.gov](http://www.va.gov) - US Department of Veteran Affairs site.
 - [vets.gov](https://www.vets.gov) - Veteran information and resources ([report issues](https://github.com/department-of-veterans-affairs/vets-website/issues)).
