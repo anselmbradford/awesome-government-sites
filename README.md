@@ -55,6 +55,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 #### Department of Veteran Affairs
 
 - [va.gov](http://www.va.gov) - US Department of Veteran Affairs site.
+- [vets.gov](https://www.vets.gov) - Veteran information and resources ([report issues](https://github.com/department-of-veterans-affairs/vets-website/issues)).
 
 #### Environmental Protection Agency (EPA)
 
