@@ -17,7 +17,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [regulations.gov](http://www.regulations.gov) - Find regulations ([report issues](https://github.com/regulationsgov/developers/issues))
 - [usa.gov](https://www.usa.gov) - Online guide to government information and services.
 - [volunteer.gov](https://www.volunteer.gov) - National volunteer portal.
-- [whitehouse.gov](whitehouse.gov) - The White House.
+- [whitehouse.gov](whitehouse.gov) - The White House ([GH org](https://github.com/whitehouse)).
 
 #### Bureau of Labor Statistics
 
@@ -52,7 +52,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [mymoney.gov](http://www.mymoney.gov) - Improve the financial well-being of postsecondary students.
 - [usaspending.gov](https://www.usaspending.gov) - Track federal spending ([report issues](https://github.com/fedspendingtransparency/USASpending-Issue-Tracker/issues)).
 
-#### Department of Veteran Affairs ([GH org](https://github.com/department-of-veterans-affairs))
+#### Department of Veteran Affairs (VA) ([GH org](https://github.com/department-of-veterans-affairs))
 
 - [va.gov](http://www.va.gov) - US Department of Veteran Affairs site.
 - [vets.gov](https://www.vets.gov) - Veteran information and resources ([report issues](https://github.com/department-of-veterans-affairs/vets-website/issues)).
