@@ -84,6 +84,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [globe.gov](http://www.globe.gov) - Global Learning and Observations to Benefit the Environment (GLOBE).
 - [nasa.gov](https://www.nasa.gov) - National Aeronautics and Space Administration (NASA) site.
+  - [astrobiology.nasa.gov](https://astrobiology.nasa.gov) - Information on the search for extraterrestrial life.
+  - [climate.nasa.gov](http://climate.nasa.gov) - Climate Change and Global Warming information.
+  - [eyes.nasa.gov](https://eyes.nasa.gov) - Visualizations of the solar system through apps.
+  - [jpl.nasa.gov](http://www.jpl.nasa.gov) - Jet Propulsion Laboratory (JPL) site.
+  - [mars.nasa.gov](http://mars.nasa.gov) - Mars missions information and resources.
+  - [pmm.nasa.gov](http://pmm.nasa.gov) - Precipitation measurement missions site.
+  - [sti.nasa.gov](http://www.sti.nasa.gov) - Scientific and Technical Information (STI) Program for sharing research.
+  - [terra.nasa.gov](http://terra.nasa.gov) - Terra satellite information.
 
 #### National Science Foundation
 
