@@ -86,6 +86,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [nasa.gov](https://www.nasa.gov) - National Aeronautics and Space Administration (NASA) site.
   - [astrobiology.nasa.gov](https://astrobiology.nasa.gov) - Information on the search for extraterrestrial life.
   - [climate.nasa.gov](http://climate.nasa.gov) - Climate Change and Global Warming information.
+  - [earthobservatory.nasa.gov](http://earthobservatory.nasa.gov) - Research materials and resources about Earth.
   - [eyes.nasa.gov](https://eyes.nasa.gov) - Visualizations of the solar system through apps.
   - [jpl.nasa.gov](http://www.jpl.nasa.gov) - Jet Propulsion Laboratory (JPL) site.
   - [mars.nasa.gov](http://mars.nasa.gov) - Mars missions information and resources.
