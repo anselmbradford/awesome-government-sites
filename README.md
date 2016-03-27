@@ -74,7 +74,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [digitalgov.gov](http://www.digitalgov.gov) - Help government in providing digital services and information for the public.
   - [search.digitalgov.gov](http://search.digitalgov.gov) - DigitalGov search portal ([report issues](https://github.com/GSA/search.digitalgov.gov/issues))
 
-#### Library of Congress
+#### Library of Congress ([GH org](https://github.com/LibraryOfCongress))
 
 - [congress.gov](https://www.congress.gov) - legislative activities, members of congress, etc.
 - [loc.gov](https://www.loc.gov) - Library of Congress site.
