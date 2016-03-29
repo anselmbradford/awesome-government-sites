@@ -94,14 +94,25 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [sti.nasa.gov](http://www.sti.nasa.gov) - Scientific and Technical Information (STI) Program for sharing research.
   - [terra.nasa.gov](http://terra.nasa.gov) - Terra satellite information.
 
+#### National Archives (NARA) ([GH org](https://github.com/usnationalarchives))
+  - [archives.gov](http://www.archives.gov) - National Archives site.
+
 #### National Science Foundation
 
 - [nsf.gov](http://www.nsf.gov) - National Science Foundation site.
 
-#### Office of Personnel Management
+#### Office of Personnel Management (OPM)
 
 - [opm.gov](https://www.opm.gov) - US Office of Personnel Management site.
 - [usajobs.gov](https://www.usajobs.gov) - One-stop source for federal jobs and employment information.
+
+#### Office of the Federal Register (OFR)
+
+- [federalregister.gov](https://www.federalregister.gov) - Daily Journal of the US Government ([report issues](https://github.com/usnationalarchives/fr2/issues)).
+
+#### Government Publishing Office
+
+- [gpo.gov](https://www.gpo.gov) - Government Publishing Office site.
 
 ### State
 
