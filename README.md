@@ -43,6 +43,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 #### Department of Health & Human Services (HHS)
 
 - [AIDS.gov](https://www.aids.gov) - HIV/AIDS information and resources.
+- [cdc.gov](http://www.cdc.gov) - Centers for Disease Control and Prevention site.
 - [NIH.gov](http://www.nih.gov) - National Institutes of Health (NIH).
 - [genome.gov](https://www.genome.gov) - National Human Genome Research Institute (NHGRI).
 - [stopbullying.gov](http://www.stopbullying.gov) - Stop bullying information and resources.
